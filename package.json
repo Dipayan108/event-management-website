@@ -1,0 +1,15 @@
+{
+  "name": "event_management_commercial_website",
+  "version": "1.0.0",
+  "description": "making a commercial website",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

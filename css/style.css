@@ -1,0 +1,28 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.slider .slides li img {
+    position: relative;
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+nav ul a {
+    color: #000;
+    font-size: 20px;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+.nav-color {
+    background: #202124;
+}
