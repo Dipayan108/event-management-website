@@ -5,6 +5,10 @@ body {
     font-family: 'Dancing Script', cursive;
 }
 
+h3 {
+    margin: 0px;
+}
+
 .slider .slides li img {
     position: relative;
     background: no-repeat center center fixed;
@@ -25,4 +29,45 @@ nav ul a {
 
 .nav-color {
     background: #202124;
+}
+
+.container2 {
+    min-height: 50vh;
+    min-width: 50vw;
+    /* width: 200%; */
+    padding: 10px 0px;
+}
+
+.display {
+    display: inline-block;
+}
+
+.wedding {
+    display: table;
+    max-width: 550px;
+}
+
+.birthday {
+    display: table;
+    max-width: 550px;
+}
+
+.corporate {
+    display: table;
+    max-width: 550px;
+}
+
+.concerts {
+    display: table;
+    max-width: 550px;
+}
+
+.seminars {
+    display: table;
+    max-width: 550px;
+}
+
+.other-events {
+    display: table;
+    max-width: 550px;
 }
